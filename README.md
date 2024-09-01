@@ -12,4 +12,4 @@ Manager
 Object
 Skill
 Scene
-하위 오브젝트(아티템1~6)
+하위 오브젝트(아이템1~6)
